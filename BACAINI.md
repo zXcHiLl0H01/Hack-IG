@@ -7,7 +7,7 @@ $ pkg install git
 
 $ termux-setup-storage
 
-$ git clone https://github.com/zXcHiLl0H01/Hack-IG-2020
+$ git clone https://github.com/zXcHiLl0H01/Hack-IG
 
 $ cd
 
